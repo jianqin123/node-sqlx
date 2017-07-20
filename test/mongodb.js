@@ -1,5 +1,5 @@
 describe('testMongoDB',function(){
-  /*
+  
    it("insert1 MongoDB",function(done){
             var data ={"name23":"www..com"} ;
             var set ="first"
@@ -66,7 +66,7 @@ describe('testMongoDB',function(){
             throw err
         } )
    })
-    */
+    
    it("delete MongoDB",function(done){
       var data ={"name23":"www..com"} ;
             var set ="first"
