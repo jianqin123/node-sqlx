@@ -22,6 +22,7 @@ database driver with extended features.
 
 ## database list
 * mysql
+* mongodb
 * define custom function to use any database or service
 
 ## feature list
